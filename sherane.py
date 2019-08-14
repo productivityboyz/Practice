@@ -1,0 +1,1 @@
+print("you trying to fuck with sherane homie?")
