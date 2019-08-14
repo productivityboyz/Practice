@@ -1,3 +1,5 @@
-print("this dick ain't free")
+print("this dick ain't DOG")
 
-print('you lookin at it like it aint a reciept')
+print('you lookin at it like it aint a receipt')
+
+
