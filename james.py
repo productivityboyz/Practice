@@ -1,1 +1,1 @@
-test_variable=5000
+vegetable_variable=5000
