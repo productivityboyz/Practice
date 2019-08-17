@@ -1,3 +1,0 @@
-vegetable_variable=5000
-
-more_changes_bruh=10
